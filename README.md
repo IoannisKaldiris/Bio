@@ -1,7 +1,7 @@
 # Hi 👋 I'm Ioannis Kaldiris
 
 💫 **About Me:**  
-I’m a Computer Science student currently attending Computer Engineering and Informatics Department at University of Patras. I’m honing my software skills with hard work and passion for the field of software development. My area of expertise consists of object-oriented programming, functional programming, databases, data structures and full stack development.
+I’m a Computer Science student currently attending Computer Engineering and Informatics Department at University of Patras. I’m honing my software skills with hard work and passion for the field of software development. My area of expertise consists of object-oriented programming, functional programming, data structures and full stack development.
 
 🚀 **What I'm Up To:**  
 - 🤖 Designing and implementing a collaborative system for aid requests after natural disasters.  
