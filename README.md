@@ -14,7 +14,7 @@ I’m a Computer Science student currently attending Computer Engineering and In
 
 
 🌐 **Connect with Me:**  
-- [Linkedn]((https://www.linkedin.com/in/ioannis-kaldiris-9b461227a/))
+- [Linkedn](https://www.linkedin.com/in/ioannis-kaldiris-9b461227a/)
 
 
 💻Skills & Technologies:
