@@ -11,8 +11,6 @@ I’m a Computer Science student currently attending Computer Engineering and In
 
 
 💻 **Simulating cellular networks with dynamic resource allocation and container placement.**
-### 🎓 About Me
-I’m also enthusiastic about sharing my coding journey and insights. You can find me on:
 
 - 
 🌐 **Connect with Me:**  
