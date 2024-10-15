@@ -10,7 +10,7 @@ I’m a Computer Science student currently attending Computer Engineering and In
 🌍 **Designing and implementing an innovative collaborative system for managing aid requests after natural disasters. This project not only enhances my understanding of Operating Systems but also deepens my expertise in process algorithms and thread safety. By leveraging parallelism through OpenMP and MPI, I aim to ensure efficient and reliable resource allocation in critical situations.**
 
 
-- 💻 Simulating cellular networks with dynamic resource allocation and container placement.
+💻 **Simulating cellular networks with dynamic resource allocation and container placement.**
 ### 🎓 About Me
 I’m also enthusiastic about sharing my coding journey and insights. You can find me on:
 
