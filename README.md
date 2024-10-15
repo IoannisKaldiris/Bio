@@ -12,7 +12,7 @@ I’m a Computer Science student currently attending Computer Engineering and In
 
 💻 **Simulating cellular networks with dynamic resource allocation and container placement.**
 
-- 
+
 🌐 **Connect with Me:**  
 - [Linkedn]((https://www.linkedin.com/in/ioannis-kaldiris-9b461227a/))
 
