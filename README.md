@@ -15,6 +15,6 @@ I’m a Computer Science student currently attending Computer Engineering and In
 
 
 💻Skills & Technologies:
-- **Languages:** C, Java, C++, Python, MongoDB, MySQL, HTML5, CSS, JavaScript, PHP, Assembly, Verilog, JSON parsing. 
-- **Developer Tools:** Docker, Containers: Docker, Jira, Git, VMware
+- **Languages:** C, Java, C++, Python, MongoDB, MySQL, HTML5, CSS, JavaScript, PHP, Prolog Assembly, Verilog, JSON parsing, Matlab. 
+- **Developer Tools:** Docker, Containers: Docker, Agile, Git, VMware
 - **Libraries/Frameworks:** PyQt, NumPy, Spring Boot, ReactJS,  Nodejs, Express.js, Angular.js, React, UNIX, Linux, Debian, Overleaf, Figma.
